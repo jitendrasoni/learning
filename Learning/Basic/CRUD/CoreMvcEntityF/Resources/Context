@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/crud?view=aspnetcore-3.0
+
+How to setup the database -
+
+1. Change the connection string in the appsettings.json
+2. DB scripts to create a DB
