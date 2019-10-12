@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Behavioral\1ChainOfResponsibility\" />
+    <Folder Include="Behavioral\2Command\" />
+    <Folder Include="Behavioral\3Interpreter\" />
+    <Folder Include="Behavioral\4Iterator\" />
+    <Folder Include="Behavioral\5Mediator\" />
+    <Folder Include="Behavioral\6Memento\" />
+    <Folder Include="Behavioral\11Visitor\" />
+    <Folder Include="Behavioral\10Template Method\" />
+    <Folder Include="Behavioral\9Strategy\" />
+    <Folder Include="Behavioral\8State\" />
+    <Folder Include="Behavioral\7Observer\" />
+    <Folder Include="Creational\13Factory\" />
+    <Folder Include="Creational\12Builder\" />
+    <Folder Include="Creational\11AbstrackFactory\" />
+    <Folder Include="Creational\14Prototype\" />
+    <Folder Include="Creational\15Singleton\" />
+    <Folder Include="Structural\16Adaptor\" />
+    <Folder Include="Structural\17Bridge\" />
+    <Folder Include="Structural\18Composite\" />
+    <Folder Include="Structural\19Decorator\" />
+    <Folder Include="Structural\20Fascade\" />
+    <Folder Include="Structural\21Flyweight\" />
+    <Folder Include="Structural\22Proxy\" />
+  </ItemGroup>
+
+</Project>
